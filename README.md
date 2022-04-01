@@ -1,15 +1,15 @@
 # Exercise 1
 As part of Computer Vision and Image Processing Course we need to write some functions that allow us to perform some operations on images.
 
-#####Technical issues:
+##### Technical issues:
 Python 3.10\
 Numpy 1.22.3\
 Cv2 4.5.5\
 
-##Files
+## Files
 ### 1) ex_utils.py
 The main file that contains all logic (expect gamma correction).
-####Functions:
+#### Functions:
 * **imReadAndConvert(filename: str, representation: int) -> np.ndarray**\
   Get a path to image and return it as a ndarray RGB or GRAYSCALE
   <br />
@@ -62,9 +62,9 @@ Get a path to an image and show the image in RGB or GRAY SCALE mode.\
   <br />
   
 
-###3) ex_utils.py
+### 3) ex_utils.py
    This the main that use the other files and run all functions above.
-###4) testImg1.jpg
+### 4) testImg1.jpg
 ![My image](testImg1.jpg)
   <br />
   
