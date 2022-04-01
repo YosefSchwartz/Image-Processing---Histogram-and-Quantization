@@ -4,7 +4,10 @@ As part of Computer Vision and Image Processing Course we need to write some fun
 ##### Technical issues:
 Python 3.10\
 Numpy 1.22.3\
-Cv2 4.5.5\
+Cv2 4.5.5
+<br />
+
+IDE - PyCharm 2020.3
 
 ## Files
 ### 1) ex_utils.py
